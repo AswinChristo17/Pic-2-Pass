@@ -1,4 +1,4 @@
-Hand Detection and Screenshot Capture
+Hand Detection and Screenshot Capture!
 
 This project demonstrates a Python application that uses computer vision to detect hands, capture screenshots, and process face images for passport-size photo creation. The project relies on libraries like OpenCV, CVZone, PyAutoGUI, and Matplotlib.
 
