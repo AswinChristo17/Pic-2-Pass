@@ -12,7 +12,7 @@ Face Detection and Passport Photo Generation: Processes face images to fit passp
 
 Auto Exit: Exits the program if no hand is detected for a specified time period.
 
-Key Variables
+Key Variables.
 
 Hand Detection and Screenshot Capture
 
